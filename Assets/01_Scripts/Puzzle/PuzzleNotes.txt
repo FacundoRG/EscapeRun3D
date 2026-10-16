@@ -1,0 +1,4 @@
+Sistema de puzzle del Escape Room 3D.
+El jugador debe introducir un código de cuatro dígitos.
+Si el código es correcto, se desbloquea el cofre.
+docs: add puzzle notes

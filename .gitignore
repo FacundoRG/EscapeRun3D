@@ -7,3 +7,5 @@
 [Uu]serSettings/
 .vs/
 .vscode/
+# Archivos temporales del laboratorio
+TempLaboratorio/
