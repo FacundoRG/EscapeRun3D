@@ -24,3 +24,4 @@ public class PlayerController : MonoBehaviour
         transform.Translate(movement * speed * Time.deltaTime);
     }
 }
+//Prueba
